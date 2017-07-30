@@ -5,8 +5,6 @@
 
 var Model = require('objection').Model;
 
-var bodyParser = require('body-parser');
-
 // var runner = require('child_process');
 
 // var php = require('phpjs');
